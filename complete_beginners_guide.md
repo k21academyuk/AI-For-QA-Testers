@@ -2,7 +2,7 @@
 
 ## 🎯 Welcome!
 
-This guide is written specifically for beginners. I'll explain **everything** step by step, assuming you're starting from scratch. Don't worry if terms seem confusing at first - we'll break down every concept.
+This guide is written specifically for beginners. We'll explain **everything** step by step, assuming you're starting from scratch. Don't worry if terms seem confusing at first - we'll break down every concept.
 
 ---
 
