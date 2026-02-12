@@ -2366,6 +2366,3 @@ This role wants someone who:
 
 **End of Beginner's Guide**
 
-Save this guide and refer back to it as you prepare. Practice the exercises, and don't be afraid to experiment. Every expert was once a beginner!
-
-Good luck! 🌟
